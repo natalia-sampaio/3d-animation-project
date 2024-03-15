@@ -24,6 +24,7 @@
     "@tresjs/cientos": "^3.6.0",
     "@tresjs/core": "^3.5.1",
     "@tresjs/leches": "^0.14.0",
+    "gsap": "^3.12.5",
     "three": "^0.159.0",
     "vue": "^3.3.9"
   },
